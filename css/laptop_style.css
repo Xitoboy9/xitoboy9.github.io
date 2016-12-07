@@ -132,7 +132,7 @@ html {
 }
 
 @media screen and (min-width: 480px) {
-  .sidebar {
+  .main-sidebar {
     width: 100vw;
   }
 }
