@@ -132,7 +132,7 @@ html {
 }
 
 @media screen and (max-width: 480px) {
-  .main-sidebar {
+  .sidebar {
     width: 100vw;
     float: auto;
   }
