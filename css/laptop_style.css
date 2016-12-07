@@ -131,7 +131,7 @@ html {
   border: 2px solid black;
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 480px) {
   .main-sidebar {
     width: 100vw;
   }
