@@ -129,7 +129,7 @@ html {
   border: 2px solid black;
 }
 
-@media screen and (max-width: 510px) {
+@media screen and (max-width: 640px) {
   .sidebar {
     font-size: 5vw;
     width: 100vw;
