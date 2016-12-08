@@ -24,7 +24,6 @@ html {
 }
 
 .sb-header {
-  background-color: #dfdfdf;
   list-style-type: none;
   color: black;
   font-family: 'Roboto';
@@ -48,7 +47,6 @@ html {
 }
 
 .menu-header {
-  background-color: #dfdfdf;
   list-style-type: none;
   color: black;
   font-family: 'Roboto';
@@ -133,7 +131,59 @@ html {
 
 @media screen and (max-width: 480px) {
   .sidebar {
+    font-size: 5vw;
     width: 100vw;
     float: auto;
+    height: 30vh;
+    margin-top: 10vh;
+    padding-top: 1vh;
+  }
+  .m-item {
+    font-size: 3vw;
+    right: 7vw;
+  }
+  .video-updates {
+    margin-top: 0vh;
+  }
+  .header-main {
+    float: top;
+    position: relative;
+    bottom: 40vh;
+    font-size: 10vw;
+  }
+  .header-text {
+    margin-top: 60vh;
+  }
+  .logo {
+    float: right;
+    width: 45vw;
+  }
+  .sb-header {
+    margin-bottom: -4.5vh;
+    margin-left: 5vw;
+  }
+  .menu {
+    font-size: 5vw;
+    margin-left: 5vw;
+  }
+  .m-social {
+    font-size: 5vw;
+    width: 7vw;
+  }
+  .tn {
+    float: auto;
+    width: 85vw;
+  }
+  .tn-text {
+    width: 81vw;
+    float: bottom;
+    height: 20vh;
+  }
+  .tn-text-bottom {
+    width: 81vw;
+    float: bottom;
+  }
+  .social {
+    margin-bottom: -2vh;
   }
 }
