@@ -1,1 +1,1 @@
-# Don't be afraid to help me out. You can easily run all this code into XAMPP and view it. Once I finish this site, I'll post the link.
+# The site is done! https://xitoboy9.github.io/yt.html It works on both mobile and computers! If you see any buggs, please make sure to tell me! Peace!
